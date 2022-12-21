@@ -1,2 +1,12 @@
-Hello World
--- chaffee
+---
+layout: layout
+front: true
+---
+<section class="region divided highlight" id="home"><div class="inner">
+  <img class="right" src="images/team.jpg" alt="Our team" />
+  <h1 class="title">{{ site.offering }}</h1>
+  <p itemprop="description">{{ site.offer_description }}</p>
+</div></section>
+{% for section in site.sections %}
+{% include section.html section=section %}
+{% endfor %}
