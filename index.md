@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![thumbnail](https://github.com/vk28001chaffee/vk28001chaffee.github.io/blob/main/thumbnail.png)
+![thumbnail](https://raw.githubusercontent.com/vk28001chaffee/vk28001chaffee.github.io/main/thumbnail.png)
 
 ### Definition lists can be used with HTML syntax.
 
