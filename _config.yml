@@ -1,7 +1,7 @@
 title: Chaffee's Homepage
 description: Welcome to my homepage
 show_downloads: false
-google_analytics:
+google_analytics: 6410311703
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
