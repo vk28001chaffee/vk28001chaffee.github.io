@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me ~~~
+# About Me 
 
 <img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="480" height="480">
 
