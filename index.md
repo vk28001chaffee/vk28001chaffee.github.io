@@ -1,122 +1,51 @@
 ---
-layout: default
+layout: page
 ---
 
-<!--   Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+# About Me
 
-[Link to another page](./another-page.html).
+<img src="https://caihanlin.com/zhaoteng.jpg" class="floatpic" width="360" height="480">
 
-<!--There should be whitespace between paragraphs. -->
+Here is **Teng Zhao (chaffee, 赵腾)**.
 
-<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.  -->
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *26500125[at]qq[dot]com*
 
-## Header 2
+<br>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Academic Background
 
-### Header 3
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Sep 2020 - June 2024:** Fuzhou University (BEng)
+- **Sep 2020 - June 2024:** Maynooth University (BSc)
+- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<br>
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Research Interests
 
-##### Header 5
+- Industrial IoT System
+- Network Cybersecurity
+- Applied Machine Learning
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
-###### Header 6
+<br>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## News and Updates
 
-* * *
+- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
+- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
+- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
+- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
-### Here is an unordered list:
+<br>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![thumbnail](https://raw.githubusercontent.com/vk28001chaffee/vk28001chaffee.github.io/main/thumbnail.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
