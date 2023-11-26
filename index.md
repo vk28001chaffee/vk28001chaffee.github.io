@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="360" height="480">
+<img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="480" height="480">
 
-Here is **Teng Zhao (chaffee, 赵腾)**.
+Here is **Teng Zhao (Chaffee, 赵腾)**.
 
 
 
@@ -16,12 +16,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> ////!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **//:** // University (BEng)
+- **//:** // (BSc)
+- **//:** //University (//)
+
 
 <br>
 
@@ -41,11 +41,11 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Aug 2023：**//.
+- **May 2023：**//.
+- **May 2023：**//.
+- **Jan 2023：**//!
+- **Jun 2022：**//.
 
 <br>
 
