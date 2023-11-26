@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/zhaoteng.jpg" class="floatpic" width="360" height="480">
+<img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="360" height="480">
 
 Here is **Teng Zhao (chaffee, 赵腾)**.
 
