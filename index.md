@@ -2,25 +2,25 @@
 layout: page
 ---
 
-# About Me 
+# About Me
 
-<img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="480" height="480">
+<img src="https://vk28001chaffee.github.io/zhaoteng.jpg" class="floatpic" width="360" height="360">
 
-Here is **Teng Zhao (Chaffee, 赵腾)**.
+Here is **Zhao Teng**.
 
 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *26500125[at]qq[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> ////!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **//:** // University (BEng)
-- **//:** // (BSc)
-- **//:** //University (//)
+- **Sep 2020 - June 2024:** //
+- **Sep 2020 - June 2024:** //
+- **June 2022 - Nov 2022:** //
 
 
 <br>
@@ -29,11 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+///
 
 <br>
 
@@ -41,11 +37,11 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Aug 2023：**//.
-- **May 2023：**//.
-- **May 2023：**//.
-- **Jan 2023：**//!
-- **Jun 2022：**//.
+- **Aug 2023：**//
+- **May 2023：**//
+- **May 2023：**//
+- **Jan 2023：**//
+- **Jun 2022：**//
 
 <br>
 
